@@ -1,0 +1,19 @@
+{
+	"hosting": [
+		{
+			"site": "planovac",
+			"public": "build",
+			"ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+		},
+		{
+			"site": "planovac-jaro",
+			"public": "build",
+			"ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+		},
+		{
+			"site": "kamici",
+			"public": "build",
+			"ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+		}
+	]
+}

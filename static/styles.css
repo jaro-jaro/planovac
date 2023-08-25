@@ -2,4 +2,32 @@ body {
     background-color: black;
     color: white;
     font-family: sans-serif;
+
+    .ec {
+        .ec-toolbar {
+            .ec-button {
+                background-color: black;
+                color: white;
+                .ec-icon::after {
+                    border-top-color: white;
+                    border-right-color: white;
+                }
+            }
+            .ec-button[disabled] {
+                color: gray;
+            }
+        }
+
+        .ec-other-month {
+            color: lightgray;
+        }
+
+        .ec-today {
+            background-color: gray;
+        }
+
+        .ec-today.ec-other-month {
+            color: white;
+        }
+    }
 }
