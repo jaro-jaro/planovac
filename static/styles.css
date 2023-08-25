@@ -29,5 +29,11 @@ body {
         .ec-today.ec-other-month {
             color: white;
         }
+        .ec-event {
+            .ec-resizer {
+                border: 2px solid lightgray;
+                border-radius: 2px;
+            }
+        }
     }
 }
