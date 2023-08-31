@@ -72,9 +72,9 @@
 		Bětka: 'blue',
 		Janda: 'orangered',
 		Jošt: 'darkgreen',
-		'0ndra': 'royalblue',
+		'0ndra': 'lime',
 		Ráďa: 'gold',
-		Terka: 'lime',
+		Terka: 'royalblue',
 		Verča: 'rosybrown'
 	};
 
@@ -84,9 +84,9 @@
 		Bětka: 'white',
 		Janda: 'white',
 		Jošt: 'white',
-		'0ndra': 'white',
+		'0ndra': 'black',
 		Ráďa: 'black',
-		Terka: 'black',
+		Terka: 'white',
 		Verča: 'black'
 	};
 
