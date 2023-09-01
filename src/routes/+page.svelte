@@ -124,12 +124,6 @@
 	let hid: number[] = [];
 
 	const update = () => {
-		if (ec == undefined) hid = [];
-		else {
-			const date = ec.getView().currentStart as Date;
-			if (date.getMonth() == 6 || date.getMonth() == 7) hid = [];
-			else hid = [1, 2, 3, 4, 5];
-		}
 	};
 
 	let localWindow: Window & typeof globalThis;
