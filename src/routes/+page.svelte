@@ -75,7 +75,8 @@
 		'0ndra': 'lime',
 		Ráďa: 'gold',
 		Terka: 'royalblue',
-		Verča: 'rosybrown'
+		Verča: 'rosybrown',
+  Expedice: 'white',
 	};
 
 	const barvyTextu: Record<Clovek, DataType.NamedColor> = {
@@ -87,7 +88,8 @@
 		'0ndra': 'black',
 		Ráďa: 'black',
 		Terka: 'white',
-		Verča: 'black'
+		Verča: 'black',
+  Expedice: 'black',
 	};
 
 	let clovek: Clovek | undefined;
