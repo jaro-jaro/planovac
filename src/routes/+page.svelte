@@ -269,6 +269,7 @@
 <p><a target="_blank" href="https://adventni-kalendar.web.app">Adventní kalendář</a></p>
 <p><a target="_blank" href="https://drive.google.com/drive/folders/1BKyg6xNXWZ8SGV95mSSyv0kkuCBqpPm0?usp=sharing">Google Disk expedice</a></p>
 <p><a target="_blank" href="https://discord.com/channels/1052594095354298458/1321498060861214900">Discord expedice</a></p>
+<p><a target="_blank" href="https://photos.app.goo.gl/Apk9sDaZFqinmheH6">Meme templates</a></p>
 
 <label for="lidi">Vyber se:</label>
 
